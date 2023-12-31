@@ -8,15 +8,9 @@ main:
 
   - title: "Ensino"
     url: /teaching/    
-    
-#  - title: "Portfolio"
- #   url: /portfolio/
         
   - title: "Postagens"
     url: /year-archive/
     
   - title: "Currículo"
     url: /cv/
-    
-  #- title: "Guide"
-   # url: /markdown/
